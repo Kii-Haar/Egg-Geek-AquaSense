@@ -3,7 +3,7 @@
 
 ![AQUASENSE Logo](./logo_AquaSense.jpg)
 
-AQUASENSE adalah **platform monitoring kualitas air tambak udang berbasis IoT dan AI** yang dirancang untuk membantu pembudidaya udang skala kecil dan menengah mengurangi risiko gagal panen melalui **pemantauan real-time dan peringatan dini**.
+AQUASENSE adalah **platform monitoring kualitas air tambak udang berbasis IoT** yang dirancang untuk membantu pembudidaya udang skala kecil dan menengah mengurangi risiko gagal panen melalui **pemantauan real-time dan peringatan dini**.
 
 ---
 
